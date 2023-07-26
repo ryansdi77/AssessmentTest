@@ -1,0 +1,5 @@
+Name 	: Muhammad Ryan Adi Negoro
+Tanggal	: 26 July 2023
+
+1. The skill that I currently master is java. I have been using java for about 4 years as a programming language and various frameworks that I use, such as Akka, Spring, Hibernate, Struts. For the current framework, what I am good at is Akka because the setup and configuration is not as complicated as the others.
+
