@@ -3,7 +3,12 @@ Tanggal	: 07 Agusuts 2023
 
 1. The skill that I currently master is java. I have been using java for about 4 years as a programming language and various frameworks that I use, such as Akka, Spring, Hibernate, Struts. For the current framework, what I am good at is Akka because the setup and configuration is not as complicated as the others.
 
-4. 
+3. How to run application
+	a. Open project assessment-test with IDEA like intelij
+	b. Change path file in class Main line 8
+	c. Run class main
+
+4. Database SQL
 CREATE TABLE table_a (
 	id_table_a int PRIMARY KEY,
 	cardnumber int,
